@@ -1,1 +1,2 @@
-# Credit-Card-Validator-in-C-
+# Credit Card Validator in C++
+A simple C++ program I wrote in my first computing course @SFU which validates credit card numbers using Luhn's Algorithm.
